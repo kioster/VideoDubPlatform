@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/third-party/MaterialRatingBar/MaterialRatingBar.iml" filepath="$PROJECT_DIR$/third-party/MaterialRatingBar/MaterialRatingBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoDubPlatform.iml" filepath="$PROJECT_DIR$/VideoDubPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/VitamioBundle/VitamioBundle.iml" filepath="$PROJECT_DIR$/third-party/VitamioBundle/VitamioBundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/MaterialRatingBar/library/library.iml" filepath="$PROJECT_DIR$/third-party/MaterialRatingBar/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/slider/slider.iml" filepath="$PROJECT_DIR$/third-party/slider/slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/third-party.iml" filepath="$PROJECT_DIR$/third-party/third-party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party/VitamioBundle/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/third-party/VitamioBundle/vitamio/vitamio.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+include ':app'
+include ':third-party:slider'
+include ':third-party:VitamioBundle:vitamio'
+include ':third-party:MaterialRatingBar:library'

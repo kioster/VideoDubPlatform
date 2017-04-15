@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/third-party/original-packages/*
+/third-party/ijkplayer-k0.7.8.1/*
+/third-party/toolbar_demo/*
+/third-party/SideDrawer/*
+/third-party/AndroidImageSlider/*

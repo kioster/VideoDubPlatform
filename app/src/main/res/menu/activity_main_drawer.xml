@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/my_upload"
+            android:title="@string/my_upload" />
+        <item
+            android:id="@+id/my_download"
+            android:title="@string/my_download" />
+        <item
+            android:id="@+id/my_rate"
+            android:title="@string/my_rate" />
+    </group>
+</menu>

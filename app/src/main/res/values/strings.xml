@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">日语语料库</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="post_time">post time</string>
+    <string name="search_title">搜索</string>
+    <string name="upload">上传</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+
+    <string name="default_account">android.studio@android.com</string>
+    <string name="user">user</string>
+
+    <string name="back_to_homepage">返回主页</string>
+
+    <string name="my_upload">我的上传</string>
+    <string name="my_download">我的下载</string>
+    <string name="my_rate">我的评分</string>
+
+    <string name="popular_rate">大众评分</string>
+
+    <string name="submit_rate">提交评分</string>
+    <string name="cancel_rate">取消评分</string>
+    <string name="point">分</string>
+
+    <string name="have_star">\u2605</string>
+    <string name="no_star">\u2606</string>
+
+    <string name="name_first">名称优先排序</string>
+    <string name="rate_first">评分优先排序</string>
+    <string name="time_first">时间优先排序</string>
+
+    <string name="default_image_description">image</string>
+
+    <string name="example_time">2016&#8211;04&#8211;09</string>
+    <string name="example_rate">3.0</string>
+</resources>
